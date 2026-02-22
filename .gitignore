@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# VSCode
+.vscode/
+
+
+# Logs
+*.log
+
+# Checkpoints
+*.pt
+*.pth
+*.ckpt
+*.npz
+checkpoints/
+out/
+
+# Data
+data/
+*.bin
+
+# OS
+.DS_Store
